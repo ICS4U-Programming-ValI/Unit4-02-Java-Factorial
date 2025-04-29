@@ -1,0 +1,7 @@
+Hello is not a valid integer.
+Factorial is too large.
+Factorial = 24
+Factorial = 362880
+Example is not a valid integer.
+Number is negative.
+7.5 is not a valid integer.
